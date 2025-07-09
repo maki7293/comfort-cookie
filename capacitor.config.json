@@ -1,0 +1,13 @@
+{
+    "appId": "com.example.app",
+    "appName": "ComfortCookie",
+    "webDir": "www",
+    "bundledWebRuntime": false,
+    "plugins": {
+      "SplashScreen": {
+        "launchShowDuration": 3000,
+        "launchAutoHide": true,
+        "backgroundColor": "#ffffffff"
+      }
+    }
+  }

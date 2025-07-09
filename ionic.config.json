@@ -1,0 +1,7 @@
+{
+  "name": "comfortcookie",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
